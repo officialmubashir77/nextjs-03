@@ -1,0 +1,11 @@
+00:00 - Introduction
+01:17 - Arranging Old Code
+03:12 - Is Next.js a Frontend or a Backend Framework?
+03:51 - Is Next.js better than React?
+04:33 - File Based Routing
+04:47 - Creating New Application
+06:26 - Manipulating Home Page of New App
+08:00 - Creating New About Page
+10:09 - Nested Routes
+12:03 - Dynamic Routes
+15:26 - Final Note
